@@ -1,0 +1,13 @@
+# All unpinned blobs below are extracted from Huawei P10 Lite WAS-LX1 WAS-L21 hw eu Warsaw-L21A 8.0.0.394(C432) Firmware EMUI8.0 05014JNC
+
+# Audio configs
+
+
+# Camera hwcam
+
+
+# NFC
+
+
+# Touchscreen firmware
+
