@@ -1,13 +1,66 @@
 # All unpinned blobs below are extracted from Huawei P10 Lite WAS-LX1 WAS-L21 hw eu Warsaw-L21A 8.0.0.394(C432) Firmware EMUI8.0 05014JNC
 
 # Audio configs
-
+odm/etc/audio/algorithm/algorithm_WARSAW_normal.xml
+odm/etc/audio/dts/dts_WARSAW_normal.xml
+odm/etc/audio/hi6402/mixer_volumes_VENUS_ce.xml
+odm/etc/audio/hissc/mixer_paths_WARSAW.xml
+odm/etc/audio/hissc/mixer_volumes_WARSAW_ce.xml
+odm/etc/audio/hissc/mixer_volumes_WARSAW_cmcciot.xml
+odm/etc/audio/hissc/mixer_volumes_WARSAW_gcf.xml
+odm/etc/audio/hissc/mixer_volumes_WARSAW_normal.xml
+odm/etc/audio/hissc/mixer_volumes_WARSAW_unicomiot.xml
+odm/etc/audio/hissc/pop_seq_WARSAW.xml
+odm/etc/audio/mbdrc/mbdrc_WARSAW_normal.xml
+odm/etc/audio/modem/modem_WARSAW_cmcciot.xml
+odm/etc/audio/modem/modem_WARSAW_gcf.xml
+odm/etc/audio/modem/modem_WARSAW_normal.xml
+odm/etc/audio/modem/modem_WARSAW_unicomiot.xml
+odm/etc/audio/sws/sws_WARSAW_normal.xml
+odm/etc/audio/sws/sws_config.txt
+odm/etc/audio/sws/sws_default.xml
+odm/etc/audio/ti/ti_WARSAW_GD_normal.xml
+odm/etc/audio/ti/ti_WARSAW_GK_normal.xml
+odm/etc/audio/ti/ti_default.xml
 
 # Camera hwcam
-
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.HI843_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.IMX219_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.IMX219_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.IMX386E3_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.IMX386E3_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.IMX486_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.IMX486_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.OV12870E3_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.OV12A10_FOXCONN.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.OV12A10_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.OV12A10_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.p.OV8856_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.HI843_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.IMX219_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.IMX219_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.IMX386E3_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.IMX386E3_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.IMX486_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.IMX486_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.OV12870E3_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.OV12A10_FOXCONN.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.OV12A10_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.OV12A10_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.WARSAW.s.OV8856_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.m.WARSAW.so
 
 # NFC
-
+product/etc/nfc/libnfc_brcm_was_L21.conf:vendor/etc/libnfc-brcm.conf
+product/etc/nfc/libnfc_nxp_was_L21.conf:vendor/etc/libnfc-nxp.conf
+product/etc/nfc/nfcscc_access.xml:vendor/etc/nfcscc_access.xml
+product/etc/nfc/nfcse_access.xml:vendor/etc/nfcse_access.xml
 
 # Touchscreen firmware
+odm/etc/firmware/ts/warsaw_focal_pram_8716.img
+odm/etc/firmware/ts/warsaw_fts_wasw30110_tianma.img
+odm/etc/firmware/ts/warsaw_ilitek_ws29080_jdi.bin
+odm/etc/firmware/ts/warsaw_novatek_WASW38140_ctc.bin
+odm/etc/firmware/ts/warsaw_synaptics_wasw11140_ctc.img
+odm/etc/firmware/ts/warsaw_synaptics_wasw28170_auo.img
 
