@@ -6,15 +6,16 @@ echo "Executing in 5 seconds - CTRL-C to exit"
 echo ""
 sleep 5
 
+mkdir dump/
 mkdir dump/system/
 mkdir dump/vendor/
 mkdir dump/product/
 mkdir dump/odm/
 
-sudo mount -o ro system.img dump/system/
-sudo mount -o ro vendor.img dump/vendor/
-sudo mount -o ro product.img dump/product/
-sudo mount -o ro odm.img dump/odm/
+sudo mount -o ro system-raw.img dump/system/
+sudo mount -o ro vendor-raw.img dump/vendor/
+sudo mount -o ro product-raw.img dump/product/
+sudo mount -o ro odm-raw.img dump/odm/
 
 echo "Start extraction"
 sleep 5
