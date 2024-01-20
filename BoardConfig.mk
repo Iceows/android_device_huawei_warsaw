@@ -4,13 +4,13 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/huawei/warsaw
-
 # Inherit from hi6250-8-common
 include device/huawei/hi6250-8-common/BoardConfigCommon.mk
 
+DEVICE_PATH := device/huawei/warsaw
+
 # Display
-TARGET_SCREEN_DENSITY := 460
+TARGET_SCREEN_DENSITY := 480
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
